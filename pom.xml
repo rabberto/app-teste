@@ -11,7 +11,7 @@
 	<groupId>br.com.rbbsolucoes.app-agibank</groupId>
 	<artifactId>app-agibank</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>app-agibank</name>
 	<description>Prova Agibank Desenvolvedor</description>
 
